@@ -1,0 +1,1 @@
+# whatsapp-adb-script-delete-pictures
